@@ -1,0 +1,19 @@
+body {
+  background: #fff9f9;
+}
+h1 {
+  text-align: center;
+}
+
+#contact-btn {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}
+
+img {
+  width: 90%;
+  margin: 0 auto;
+  border-radius: 20px;
+  display: block;
+}
